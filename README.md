@@ -18,5 +18,5 @@ Designed the datapath and control unit for a single cycle processor (including i
 
 
 ## Architecture: 
-
-       ![image](https://user-images.githubusercontent.com/62239145/173169074-71627a32-42b7-4960-875e-1d8efc2b717f.png)
+   
+  ![image](https://user-images.githubusercontent.com/62239145/173169074-71627a32-42b7-4960-875e-1d8efc2b717f.png)
